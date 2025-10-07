@@ -10,12 +10,12 @@ const [message, setMessage] = useState("Hello", "Hi");
         setMessage(m => [...m, event.data])
       }
     }, []);
-    
+      
 
   return (
     <div className = "h-screen bg-gray-900  ">
       <br/> <br/> <br/> <br/> <br/> 
-      <div className="">
+      <div className="h-80">
 
       </div>
 
