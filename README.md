@@ -1,4 +1,4 @@
 ## Chat App
 # React + TypeScript + Vite
 
-''' npm run dev '''
+``` npm run dev ```
